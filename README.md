@@ -1,2 +1,21 @@
-# intro-to-C-LabWork-BEE-208-
-c++ programming LabWork, BEE 208
+Q1
+difference.cpp
+defferenc.dev
+difference.exe
+difference.layout
+difference.o
+makefile.win
+product.cpp
+product.dev
+product.exe
+product.layput
+product.o
+quotient.cpp
+quotient.dev
+quotient.exe
+quotient.layput
+quotient.o
+sum.cpp
+sum.dev
+sum.exe
+sum.layout
